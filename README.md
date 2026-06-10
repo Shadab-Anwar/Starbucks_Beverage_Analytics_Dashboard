@@ -1,15 +1,14 @@
-# StarBucks_Product_Analysis
+
 # ☕ Starbucks Beverage Analytics Dashboard
 
-## 1. Project Title / Headline
 
-### ☕ Starbucks Beverage Analytics Dashboard: Brewing Insights, Fueling Connections
+### 1. ☕ Starbucks Beverage Analytics Dashboard: Brewing Insights, Fueling Connections
 
 An interactive Power BI dashboard designed to analyze Starbucks beverage nutrition data, helping users explore calorie, sugar, protein, and caffeine trends across different beverage categories.
 
 ---
 
-## 2. Short Description / Purpose
+## 2. Short Description
 
 The Starbucks Beverage Analytics Dashboard provides a comprehensive analysis of Starbucks drink offerings through interactive visualizations and KPI tracking. It enables users to compare beverage categories based on nutritional metrics such as calories, sugar, protein, and caffeine while uncovering insights into category performance and product composition.
 
